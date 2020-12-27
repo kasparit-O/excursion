@@ -13,7 +13,7 @@ body {
     text-align: center;
 }
 
-/* Headings */
+/* Rest of the page */
 .headline {
     font-size: 50px;
 }
@@ -32,7 +32,7 @@ span a {
     color: gray;
 }
 
-.grey {
+footer p {
     color: gray;
     text-align: right;
 }
