@@ -12,3 +12,27 @@ body {
     color: white;
     text-align: center;
 }
+
+/* Headings */
+.headline {
+    font-size: 50px;
+}
+
+span a {
+    color: aquamarine;
+}
+
+.headings {
+    font-size: 42px;
+    font-weight: 300;
+}
+
+.description {
+    font-size: 21px;
+    color: gray;
+}
+
+.grey {
+    color: gray;
+    text-align: right;
+}
