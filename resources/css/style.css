@@ -12,15 +12,11 @@ body {
     text-align: center;
 }
 
-/* Rest of the page */
+/* Headings */
 h1 {
     font-size: 50px;
     font-weight: normal;
     color: white;
-}
-
-p a {
-    color: aquamarine;
 }
 
 h2 {
@@ -29,9 +25,15 @@ h2 {
     color: white;
 }
 
-.description {
+h4 {
+    font-weight: normal;
     font-size: 21px;
     color: gray;
+}
+
+/* Links */
+p a {
+    color: aquamarine;
 }
 
 footer p {
